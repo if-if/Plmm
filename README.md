@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Test of Pictures
 
-![Picture](https://cdn.pixabay.com/photo/2019/09/27/12/39/sunset-4508445__340.jpg)
+![Picture](https://cdn.pixabay.com/photo/2019/09/27/12/39/landscape-4508444_960_720.jpg)
 
